@@ -1,4 +1,4 @@
-# flutterapp1
+# flutterdemo
 
 A new Flutter application.
 
